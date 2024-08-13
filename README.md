@@ -34,14 +34,14 @@ If you don't have Poetry installed, follow these steps:
    ```bash
    poetry --version
    ```
-### Install Dependencies:**
+### Install Dependencies:
 
    You can install the project dependencies by running the following command:
 
    ```bash
    poetry install
    ```
-### Running the Project:**
+### Running the Project:
 
    You can run the project by executing the following command:
 
